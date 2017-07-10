@@ -1,0 +1,117 @@
+body{
+    color:#323232;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:12px;
+    margin:0px;
+    padding:0px;
+}
+header{
+    min-height:300px;
+    background:#666666;
+    color:#FFFFFF;
+    text-align:center;
+
+}
+header h1{
+    display:block;
+    padding-top:130px;
+    font-size:40px;
+}
+.post_info{
+    margin:5px 10px;
+    padding:5px;
+    border:1px solid #666666;
+    border-radius:5px;
+}
+a{
+    text-decoration:none;
+    cursor:pointer;
+    color:#DC143C;
+}
+a:hover{
+    text-decoration:underline;
+}
+
+.post_info .title{
+    padding-bottom:5px;
+    border-bottom:1px solid #666666;
+    margin-bottom:5px;
+    text-align:center;
+    font-size:14px;
+}
+.post_info .text{
+    padding-bottom: 5px;
+    margin-bottom:5px;
+    border-bottom:1px solid #666666;
+}
+.post_info .author{
+    text-align:center;
+    font-weight:bold;
+}
+.post_info .comments{
+    text-align:center;
+}
+.footer{
+    margin-top:30px;
+    background:#666666;
+    color:#FFFFFF;
+    text-align:center;
+    line-height:30px;
+}
+.err{
+    text-align:center;
+}
+.head_home{
+    display:block;
+    margin:5px;
+    margin-left:10px;
+
+}
+.auth_name{
+    text-align:center;
+    font-weight:bold;
+}
+.show_more{
+    padding:20px;
+    text-align:center;
+}
+.menu{
+    margin-top:-20px;
+    text-align:center;
+    margin-bottom:10px;
+    border-bottom:1px solid #666666;
+}
+.menu .menu_item{
+    padding:10px;
+    text-align:center;
+}
+.form_title{
+    text-align:center;
+
+}
+.error{
+    text-align:center;
+    color:#DC143C;
+    padding:5px;
+}
+.clr{
+    clear:both;
+    margin-top:5px;
+}
+.label{
+    text-align:right;
+}
+.field{
+    padding:5px;
+    border:1px solid #666666;
+    border-radius:5px;
+    background:white;
+}
+.submit_btn{
+    padding:5px;
+    border:1px solid #666666;
+    border-radius:5px;
+    color:white;
+    text-align:center;
+    background: #DC143C;
+}
