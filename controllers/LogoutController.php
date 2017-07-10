@@ -1,11 +1,5 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: maksim
- * Date: 10.07.17
- * Time: 16:04
- */
 class LogoutController extends Controller
 {
     public function evalRequest(Request $request,Response $response){

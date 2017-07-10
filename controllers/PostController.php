@@ -1,11 +1,6 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: maksim
- * Date: 10.07.17
- * Time: 14:36
- */
+
 class PostController extends Controller
 {
     public function evalRequest(Request $request,Response $response){
